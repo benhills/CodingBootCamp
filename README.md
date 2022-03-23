@@ -3,7 +3,7 @@ Coding Boot Camp
 
 *last edited: Spring 2022*
 
-This course is designed for students who are new to scientific research. The goal is to teach the tools that they will need to be successful as an undergraduate researcher. I am teaching this in four half-days over two weeks, with students assigned 'homework' to get their personal research environment setup between sessions.
+This course is designed for students who are new to scientific research. The goal is to teach the tools that you will need to be successful as an undergraduate researcher. I am teaching this in four half-days over two weeks, with some assigned 'homework' to get your personal research environment setup between sessions.
 
 ## Day 1 - Basics
 
@@ -35,20 +35,21 @@ and optionally:
 
 ## Day 2 - Python Modules
 
-*Prerequisites*: Have a local install of Anaconda so that we can move off the Binder server.
+*Prerequisites*: Have a local install of Anaconda so that we can move off the Binder server. Finish exercises from Day 1. It is not required that this be done as homework, but it should be done before proceeding below.
 
-*Goals*: Ensure that each student has a local setup which works for them.
+*Goals*: Ensure that each student has a local setup which works for them, then proceed to more advanced Python tools.
 
 *In-Class Work*: Finish the Python Basics from Day 1 then continue to the intermediate jupyter notebooks listed below. The focus here is to learn about importing python libraries to leverage the sea of tools created by an open-source community.
 - /Intermediate/ImportingModules.ipynb
 - /Intermediate/Visualization.ipynb
-- /Intermediate/DataScience.ipynb
+- /Intermediate/SignalProcessing.ipynb
+- /Intermediate/BasicDataScience.ipynb
 
 *Homework*: Obtain a dataset that is relevant to your research. This could be supplied by your faculty and/or graduate student advisor, or you could find it somewhere on the internet (e.g. through the National Snow and Ice Data Center). You will use this dataset in future exercises, so make it something that you are interested in.
 
-## Day 3 - Scientific Applications
+## Days 3 & 4 - Scientific Applications
 
-*Prerequisites*: Finish exercises from Day 1. It is not required that this be done as homework, but it should be done before proceeding below.
+*Prerequisites*: Finish exercises from Day 1 and at least have some familiarity with everything from Day 2. It is not required that this be done as homework, but it should be done before proceeding below.
 
 *Goals*: Apply the programming skills that we are developing to scientific problems.
 
@@ -58,14 +59,3 @@ and optionally:
 - /Applied/IceSheetGeometry.ipynb
 
 *Homework*: Write your own jupyter notebook around the dataset that you obtained. Use the markdown to write notes and make sure to use comments in the code blocks!
-
-## Day 4 - Modeling
-
-*Prerequisites*: Finish exercises from Day 1. It is not required that this be done as homework, but it should be done before proceeding below.
-
-*Goals*: Apply the programming skills that we are developing to scientific models.
-
-*In-Class Work*: If any students have not completed the Python Basics from Day 1, they should focus on those before continuing. Completion of the intermediate jupyter notebooks is ***not*** necessary to continue, but they can be used as a reference at any time.
-- /Models/ClimateForcing.ipynb
-- /Models/SeaIceFeedback.ipynb
-- /Models/IceSheetDynamics.ipynb
