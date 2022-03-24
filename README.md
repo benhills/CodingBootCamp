@@ -3,7 +3,7 @@ Coding Boot Camp
 
 *last edited: Spring 2022*
 
-This course is designed for students who are new to scientific research. The goal is to teach the tools that you will need to be successful as an undergraduate researcher. I am teaching this in four half-days over two weeks, with some assigned 'homework' to get your personal research environment setup between sessions.
+This course is designed for students who are new to scientific research. The goal is to teach the tools that you will need to be successful as an undergraduate researcher. I am teaching this in four half-days over two weeks, with some assigned 'homework' to get your personal research environment setup between sessions. *Hopefully* developing a shared set of tools will help you establish yourselves as a 'cohort' who can work together on shared problems, even when your specific research goals vary.
 
 ## Day 1 - Basics
 
@@ -12,28 +12,38 @@ This course is designed for students who are new to scientific research. The goa
 *Goals*: Python basics; from the mandatory "Hello World!" to simple algebraic operators and beyond.
 
 *In-Class Work*: We will be walking through these jupyter notebooks using a remote server on Binder (no experience or software needed):
-- /Introductory/PythonBasics.ipynb
-- /Introductory/DataStructures.ipynb
-- /Introductory/Functions.ipynb
-- /Introductory/Algorithms.ipynb
+- /Introductory/1_WelcomeToJupyter.ipynb
+- /Introductory/2_PythonBasics.ipynb
+- /Introductory/3_DataTypes.ipynb
+- /Introductory/4_Functions.ipynb
+- /Introductory/5_ConditionalsAndLoops.ipynb
 
-*Homework*: Set up the software that you will use on your computer for the remainder of your research work. My suggestions are at minimum:
-- Anaconda (includes Python, Jupyter, etc.)
-- Terminal Console (e.g. iTerm)
-- Text Editor (e.g. Atom, Vim, Emacs)
-- PDF Reader (e.g. Mendeley)
-- Microsoft Office or similar (Word, Powerpoint, etc.)
-- Slack
-
-and optionally:
-- GIS software (QGis is best the open-source option)
-- Version Control (e.g. Git)
-- Matlab
-- Vector-based graphics (Inkscape is an open-source option)
-- Data storage (e.g. GoogleDrive Filestream, Dropbox)
+*Homework*: Set up the software that you will use on your computer for the remainder of your research work. 
 
 
-## Day 2 - Python Modules
+    Strongly Suggested:
+        - Anaconda which includes:
+            - Python
+            - Jupyter
+            - basic text editor
+            - basic terminal console
+            - etc.
+        - PDF Reader (e.g. Mendeley)
+        - Microsoft Office or similar (Word, Powerpoint, etc.)
+        - Slack
+
+    Suggested:
+        - Terminal Console (e.g. iTerm)
+        - Text Editor (e.g. Atom, Vim, Emacs)
+
+    Optional:
+    - GIS software (QGis is best the open-source option)
+    - Vector-based graphics (Inkscape is an open-source option)
+    - Data storage (e.g. GoogleDrive Filestream, Dropbox)
+    - Version Control (e.g. Git)
+    - Matlab
+
+## Days 2 & 3 - Python Modules
 
 *Prerequisites*: Have a local install of Anaconda so that we can move off the Binder server. Finish exercises from Day 1. It is not required that this be done as homework, but it should be done before proceeding below.
 
@@ -41,9 +51,10 @@ and optionally:
 
 *In-Class Work*: Finish the Python Basics from Day 1 then continue to the intermediate jupyter notebooks listed below. The focus here is to learn about importing python libraries to leverage the sea of tools created by an open-source community.
 - /Intermediate/ImportingModules.ipynb
-- /Intermediate/Visualization.ipynb
+- /Intermediate/DataVisualization.ipynb
 - /Intermediate/SignalProcessing.ipynb
 - /Intermediate/BasicDataScience.ipynb
+- /Intermediate/MapsAndProjections.ipynb
 
 *Homework*: Obtain a dataset that is relevant to your research. This could be supplied by your faculty and/or graduate student advisor, or you could find it somewhere on the internet (e.g. through the National Snow and Ice Data Center). You will use this dataset in future exercises, so make it something that you are interested in.
 
