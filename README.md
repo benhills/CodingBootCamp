@@ -16,7 +16,7 @@ This course is designed for students who are new to scientific research. The goa
 - /Introductory/2_PythonBasics.ipynb
 - /Introductory/3_DataTypes.ipynb
 - /Introductory/4_Functions.ipynb
-- /Introductory/5_ConditionalsAndLoops.ipynb
+- /Introductory/5_Conditionals&Loops.ipynb
 
 *Homework*: Set up the software that you will use on your computer for the remainder of your research work. 
 
@@ -50,13 +50,13 @@ This course is designed for students who are new to scientific research. The goa
 *Goals*: Ensure that each student has a local setup which works for them, then proceed to more advanced Python tools.
 
 *In-Class Work*: Finish the Python Basics from Day 1 then continue to the intermediate jupyter notebooks listed below. The focus here is to learn about importing python libraries to leverage the sea of tools created by an open-source community.
-- /Intermediate/ImportingModules.ipynb
-- /Intermediate/DataVisualization.ipynb
-- /Intermediate/SignalProcessing.ipynb
-- /Intermediate/BasicDataScience.ipynb
-- /Intermediate/MapsAndProjections.ipynb
+- /Intermediate/1_ImportingModules.ipynb
+- /Intermediate/2_DataVisualization.ipynb
+- /Intermediate/3_Time&Place.ipynb
+- /Intermediate/4_Interp&SigProc.ipynb
+- /Intermediate/5_BasicDataScience.ipynb
 
-*Homework*: Obtain a dataset that is relevant to your research. This could be supplied by your faculty and/or graduate student advisor, or you could find it somewhere on the internet (e.g. through the National Snow and Ice Data Center). You will use this dataset in future exercises, so make it something that you are interested in.
+*Homework*: Obtain a dataset that is relevant to your research. This could be supplied by your faculty and/or graduate student advisor, or you could find it somewhere on the internet (e.g. through the National Snow and Ice Data Center). You will use this dataset in future exercises, so make it something that you are interested in. Reach out to me if you are having trouble finding something.
 
 ## Days 3 & 4 - Scientific Applications
 
