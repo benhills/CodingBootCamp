@@ -3,7 +3,7 @@
 Coding Boot Camp
 ---
 
-*last edited: Spring 2022*
+*last edited: Summer 2022*
 
 This short course is designed for students who are new to scientific research. The goal is to teach the tools that you will need to be successful as an undergraduate researcher. We are teaching this in four half-days over two weeks, with some assigned 'homework' to get your personal research environment setup between sessions. *Hopefully* developing a shared set of tools will help you establish yourselves as a 'cohort' of students who can work together on shared problems, even when your specific research goals vary.
 
@@ -66,8 +66,8 @@ This short course is designed for students who are new to scientific research. T
 *Goals*: Apply the programming skills that we are developing to scientific problems.
 
 *In-Class Work*: If any students have not completed the Python Basics from Day 1, they should focus on those before continuing. Completion of the intermediate jupyter notebooks is ***not*** necessary to continue, but they can be used as a reference at any time.
-- /Applied/KeelingCurve.ipynb
-- /Applied/BlackBodyRadiator.ipynb
-- /Applied/IceSheetGeometry.ipynb
+- /Applied/1_KeelingCurve.ipynb
+- /Applied/2_IceSheetGeometry.ipynb
+- /Applied/3_BlackBodyRadiator.ipynb
 
 *Homework*: Write your own jupyter notebook around the dataset that you obtained. Use the markdown to write notes and make sure to use comments in the code blocks!
