@@ -8,4 +8,4 @@ dependencies:
   - pip:
     - pandas
     - matplotlib
-    - jupyter_contrib_nbextensions
+    - lckr-jupyterlab-variableinspector
