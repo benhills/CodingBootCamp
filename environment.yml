@@ -6,7 +6,11 @@ dependencies:
   - numpy
   - pip
   - pip:
-    - pandas
     - lckr-jupyterlab-variableinspector
+    - pandas
     - matplotlib
+    - scipy
+    - pyproj
+    - netCDF4
+    - sklearn
     - ipympl
